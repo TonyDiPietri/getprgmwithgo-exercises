@@ -1,4 +1,4 @@
-//Listing 4.3
+//Listing 4.3: Short declaration in a for loop
 package main
 
 import (

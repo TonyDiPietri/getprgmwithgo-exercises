@@ -1,4 +1,4 @@
-//Listing 4.2
+//Listing 4.2: Condensed countdown
 package main
 
 import (

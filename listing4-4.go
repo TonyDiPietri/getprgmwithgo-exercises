@@ -1,4 +1,4 @@
-//Listing 4.4
+//Listing 4.4: Short declaration in an if statement
 package main
 
 import (

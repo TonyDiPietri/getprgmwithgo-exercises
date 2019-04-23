@@ -1,4 +1,4 @@
-//Listing 3.1
+//Listing 3.1: Function that returns a Boolean value
 package main
 
 import (

@@ -1,4 +1,4 @@
-//Listing 4.1
+//Listing 4.1: Scoping rules
 package main
 
 import (

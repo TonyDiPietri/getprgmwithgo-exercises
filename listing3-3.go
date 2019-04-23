@@ -1,4 +1,4 @@
-//Listing 3.3
+//Listing 3.3: Branching if-else
 package main
 
 import "fmt"

@@ -1,4 +1,4 @@
-//Listing 3.4
+//Listing 3.4: Leap-year determination
 package main
 
 import "fmt"

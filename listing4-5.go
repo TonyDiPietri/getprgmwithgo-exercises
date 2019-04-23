@@ -1,4 +1,4 @@
-//Listing 4.5
+//Listing 4.5: Short declaration in a switch statement
 package main
 
 import (
