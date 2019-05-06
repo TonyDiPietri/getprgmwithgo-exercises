@@ -7,7 +7,7 @@ import (
 
 func main() {
 	//generate random number as correct answer (answer)
-	var answer int
+	//var answer int
 	answer = 98
 	fmt.Println(answer)
 
